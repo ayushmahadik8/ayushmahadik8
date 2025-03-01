@@ -2,9 +2,10 @@
 
  
 I am a Data Analyst skilled in Power BI, SQL, and Python.  
-- 📊 Working on Power BI projects  
-- 📈 Exploring data analytics  
-- 💻 Passionate about learning new technologies</h1>
+📊 Working on Power BI projects  
+📈 Exploring data analytics  
+💻 Passionate about learning new technologies</h1>
+
 <h3 align="center">Learning Power-Bi,python & their library,SQL for data analyst and visualizatoin.</h3>
 <p align="center">
   <img src="https://codebulletin.github.io/MyPortfolio/assets/gif/coding.3272fa9c861c718b769a..gif" 
