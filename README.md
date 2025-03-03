@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush mahadik  👋 
 
- 
 I am a Data Analyst skilled in Power BI, SQL, and Python.  
 📊 Working on Power BI projects  
 📈 Exploring data analytics  
