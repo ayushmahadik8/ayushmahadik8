@@ -39,6 +39,6 @@ I am a Data Analyst skilled in Power BI, SQL, and Python.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushmahadik8&show_icons=true&locale=en&layout=compact" alt="ayushmahadik8" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushmahadik8&show_icons=true&locale=en" alt="ayushmahadik8" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayushmahadik8&show_icons=true&locale=en" alt="ayushmahadik8" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushmahadik8&" alt="ayushmahadik8" /></p>
