@@ -24,7 +24,7 @@ I am a Data Analyst skilled in Power BI, SQL, and Python.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aayush mahadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush mahadik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aayush-mahadik-3b4304264/?trk=opento_sprofile_details" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayush mahadik" height="30" width="40" /></a>
 <a href="https://fb.com/aayyushh mahadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aayyushh mahadik" height="30" width="40" /></a>
 <a href="https://instagram.com/_aayush__mahadik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_aayush__mahadik" height="30" width="40" /></a>
 </p>
