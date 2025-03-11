@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Aayush mahadik  👋 
+<h1 align="center">Hi 👋, I'm Aayush mahadik👋 
 
 I am a Data Analyst skilled in Power BI, SQL, and Python.  
 📊 Working on Power BI projects  
-📈 Exploring data analytics  
+📈 Exploring data analytics. 
 💻 Passionate about learning new technologies</h1>
 
 <h3 align="center">Learning Power-Bi,python & their library,SQL for data analyst and visualizatoin.</h3>
